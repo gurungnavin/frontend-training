@@ -1,10 +1,10 @@
 ![frontend-banner](https://github.com/user-attachments/assets/d7b34f48-a35a-454b-af8e-5765d66ba55f)
 
 <div align="center">
-**フロントエンド研修**
+#フロントエンド研修
 </div>
 
-- [はじめに]
+- [はじめに]()
 
 この研修では、フロントエンド開発の基本的な技術である **HTML**、**CSS**、**JavaScript** を学びます。フロントエンド開発とは、Webサイトやアプリケーションのユーザーが直接操作する部分を設計・構築することです。
 
