@@ -1,1 +1,1 @@
-# frontend-training
+# フロントエンド研修
