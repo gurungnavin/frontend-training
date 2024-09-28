@@ -1,6 +1,6 @@
 ![frontend-banner](https://github.com/user-attachments/assets/d7b34f48-a35a-454b-af8e-5765d66ba55f)
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
   <h1 style="font-size: 2em; font-weight: bold;">フロントエンド研修</h1>
 </div>
 
